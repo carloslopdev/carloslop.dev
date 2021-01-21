@@ -1,0 +1,5 @@
+# www.robotstxt.org/
+
+# Blocking all web crawlers from all content
+User-agent: *
+Disallow: /
